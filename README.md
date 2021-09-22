@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David Billsbrough
-- 👀 I’m interested in IOT and Embedded Controllers
+- 👀 I’m interested in IOT and embedded controllers
 - 🌱 I’m currently learning Andriod programming
 - 💞️ I’m looking to collaborate on podcasting
 - 📫 How to reach me ... 
